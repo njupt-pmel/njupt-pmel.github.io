@@ -292,10 +292,10 @@ section {
 }
 
 .team-card .avatar {
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 150px;
     background: var(--primary-light);
-    border-radius: 50%;
+    border-radius: 8px;
     margin: 0 auto 15px;
     display: flex;
     align-items: center;
